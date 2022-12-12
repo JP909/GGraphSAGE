@@ -1,0 +1,1 @@
+  Please download the Gene-patient matrix of LUAD tumor copynumber variation from TCGA and calculate the fold change of copynumber.                                                                                                                                                                                    
